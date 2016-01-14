@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0cfb1347-3d1c-4f67-885c-46835c3d683c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shiyanba/0107.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12. Integer to Roman.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13. Roman to Integer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/137. Single Number II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/144. Binary Tree Preorder Traversal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/191. Number of 1 Bits.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/268. Missing Number.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/287. Find the Duplicate Number.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/318. Maximum Product of Word Lengths.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shiyanba/ascII.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shiyanba/baopo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shiyanba/countofctf.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shiyanba/onlyOneFile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shiyanba/rsajiemi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../shiyanba/sukudo.py" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\1.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\10.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\1001.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\1002.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\1003.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\1004.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\101.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\102.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\103.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\104.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\11.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\1101.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\1102.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\1103.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\1104.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\12.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\1201.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\1202.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\1203.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\1204.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\13.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\1301.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\1302.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\1303.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\1304.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\14.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\1401.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\1402.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\1403.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\1404.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\15.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\1501.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\1502.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\1503.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\1504.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\16.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\1601.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\1602.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\1603.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\1604.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\2.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\201.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\202.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\203.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\204.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\3.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\301.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\302.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\303.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\304.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\4.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\401.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\402.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\403.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\404.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\5.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\501.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\502.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\503.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\504.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\6.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\601.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\602.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\603.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\604.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\7.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\701.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\702.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\703.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\704.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\8.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\801.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\802.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\803.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\804.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\9.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\901.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\902.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\903.bmp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\31351\PycharmProjects\shiyanba\bmptest\904.bmp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../shiyanba/kaisa.py" afterPath="$PROJECT_DIR$/../shiyanba/kaisa.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/leetcode.iml" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../shiyanba/rar.py" afterPath="$PROJECT_DIR$/../shiyanba/rar.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    </list>
+    <ignored path="leetcode.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/leetcode$countofctf.coverage" NAME="countofctf Coverage Results" MODIFIED="1452674097316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../shiyanba" />
+    <SUITE FILE_PATH="coverage/leetcode$Product_of_Array_Except_Self.coverage" NAME="Product of Array Except Self Coverage Results" MODIFIED="1452588717578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$169__Majority_Element.coverage" NAME="169. Majority Element Coverage Results" MODIFIED="1452590165605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$318__Maximum_Product_of_Word_Lengths.coverage" NAME="318. Maximum Product of Word Lengths Coverage Results" MODIFIED="1452667999384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$287__Find_the_Duplicate_Number.coverage" NAME="287. Find the Duplicate Number Coverage Results" MODIFIED="1452674199032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="leetcode" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="319. Bulb Switcher.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/319. Bulb Switcher.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="144. Binary Tree Preorder Traversal.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/144. Binary Tree Preorder Traversal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="318. Maximum Product of Word Lengths.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/318. Maximum Product of Word Lengths.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.6101694">
+              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="268. Missing Number.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/268. Missing Number.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="191. Number of 1 Bits.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/191. Number of 1 Bits.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="13. Roman to Integer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/13. Roman to Integer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="countofctf.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../shiyanba/countofctf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="287. Find the Duplicate Number.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/287. Find the Duplicate Number.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="16" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="12. Integer to Roman.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/12. Integer to Roman.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="20" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="137. Single Number II.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/137. Single Number II.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.11340206">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="9" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Product of Array Except Self.py" />
+        <option value="$PROJECT_DIR$/171. Excel Sheet Column Number.py" />
+        <option value="$PROJECT_DIR$/169. Majority Element.py" />
+        <option value="$PROJECT_DIR$/319. Bulb Switcher.py" />
+        <option value="$PROJECT_DIR$/144. Binary Tree Preorder Traversal.py" />
+        <option value="$PROJECT_DIR$/318. Maximum Product of Word Lengths.py" />
+        <option value="$PROJECT_DIR$/268. Missing Number.py" />
+        <option value="$PROJECT_DIR$/191. Number of 1 Bits.py" />
+        <option value="$PROJECT_DIR$/13. Roman to Integer.py" />
+        <option value="$PROJECT_DIR$/../shiyanba/countofctf.py" />
+        <option value="$PROJECT_DIR$/287. Find the Duplicate Number.py" />
+        <option value="$PROJECT_DIR$/12. Integer to Roman.py" />
+        <option value="$PROJECT_DIR$/137. Single Number II.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../shiyanba" />
+  </component>
+  <component name="RunManager" selected="Python.287. Find the Duplicate Number">
+    <configuration default="false" name="Product of Array Except Self" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Product of Array Except Self.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="169. Majority Element" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/169. Majority Element.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="318. Maximum Product of Word Lengths" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/318. Maximum Product of Word Lengths.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="countofctf" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../shiyanba" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="shiyanba" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../shiyanba/countofctf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="287. Find the Duplicate Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/287. Find the Duplicate Number.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.Product of Array Except Self" />
+      <item index="1" class="java.lang.String" itemvalue="Python.169. Majority Element" />
+      <item index="2" class="java.lang.String" itemvalue="Python.318. Maximum Product of Word Lengths" />
+      <item index="3" class="java.lang.String" itemvalue="Python.countofctf" />
+      <item index="4" class="java.lang.String" itemvalue="Python.287. Find the Duplicate Number" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.287. Find the Duplicate Number" />
+        <item index="1" class="java.lang.String" itemvalue="Python.countofctf" />
+        <item index="2" class="java.lang.String" itemvalue="Python.318. Maximum Product of Word Lengths" />
+        <item index="3" class="java.lang.String" itemvalue="Python.169. Majority Element" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Product of Array Except Self" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cfb1347-3d1c-4f67-885c-46835c3d683c" name="Default" comment="" />
+      <created>1452587531132</created>
+      <option name="number" value="Default" />
+      <updated>1452587531132</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1452591055341</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1452591055341</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="953" y="0" width="974" height="1047" extended-state="1" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33224043" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32896176" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33005464" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4452954" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Product of Array Except Self.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="21" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/171. Excel Sheet Column Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/169. Majority Element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/319. Bulb Switcher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product of Array Except Self.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="21" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/171. Excel Sheet Column Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/169. Majority Element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/319. Bulb Switcher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/144. Binary Tree Preorder Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/318. Maximum Product of Word Lengths.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6101694">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/268. Missing Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/191. Number of 1 Bits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13. Roman to Integer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shiyanba/countofctf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/287. Find the Duplicate Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="16" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12. Integer to Roman.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="20" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/137. Single Number II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11340206">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="9" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
